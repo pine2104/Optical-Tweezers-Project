@@ -1,0 +1,6 @@
+open Fig2-2.m
+Run Setction
+
+Display Figure 2a(*5),Figure 3-Dup-TG15 and Figure 5f-SUMO
+
+Global fitting 
